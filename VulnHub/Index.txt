@@ -1,0 +1,11 @@
+Completed Boxes
+  [name]                         [download url]
+  Brainpan                       https://www.vulnhub.com/entry/brainpan-1,51/
+  Doubletrouble                  https://www.vulnhub.com/entry/doubletrouble-1,743/
+  Driftingblues                  https://www.vulnhub.com/entry/driftingblues-1,625/
+  Earth                          https://www.vulnhub.com/entry/the-planets-earth,755/
+  Gemini                         https://www.vulnhub.com/entry/gemini-inc-1,227/
+  Hacksudo                       https://www.vulnhub.com/entry/hacksudo-search,683/
+  NoName                         https://www.vulnhub.com/entry/haclabs-no_name,429/
+  Ripper                         https://www.vulnhub.com/entry/ripper-1,706/
+  Thales                         https://www.vulnhub.com/entry/thales-1,749/
