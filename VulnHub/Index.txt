@@ -9,3 +9,4 @@ Completed Boxes
   NoName                         https://www.vulnhub.com/entry/haclabs-no_name,429/
   Ripper                         https://www.vulnhub.com/entry/ripper-1,706/
   Thales                         https://www.vulnhub.com/entry/thales-1,749/
+  Solstice                       https://www.vulnhub.com/entry/sunset-solstice,499/
